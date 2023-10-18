@@ -1,0 +1,47 @@
+body {
+	background: #FFFFFF
+}
+
+#site {
+    width: 100%;
+}
+
+header {
+	background: #BBBBBB
+}
+
+nav li{
+	display:inline;
+	margin: 0 0 0 140px;
+}
+
+nav a{
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration: none;
+
+}
+
+h1 {
+    text-align: center
+}
+
+p {
+    text-align: center;
+}
+
+#renzulli {
+    font-size: 20px
+}
+
+
+
+#gardner {
+    font-size: 20px
+}
+
+em strong {
+    color: #FF0000;
+}
